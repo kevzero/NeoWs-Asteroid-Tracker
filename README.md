@@ -1,4 +1,4 @@
-# 🪐 NeoWs Asteroid Tracker (NASA API) in C
+# 🪐 NeoWs Asteroid Tracker (NASA API) 
 
 A C program that connects to NASA's **NeoWs (Near Earth Object Web Service)** API, downloads data about near-Earth asteroids, and displays it in the terminal in JSON format.
 
